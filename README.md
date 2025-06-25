@@ -7,7 +7,7 @@
 This project presents an interactive and visually engaging dashboard that analyzes the content catalog of **Prime Video**. Built for data exploration and storytelling, it showcases key content insights across genres, ratings, release trends, and geographical distribution.
 
 ## Screenshot
-![Prime Video Dashboard](Screenshot%2025-06-25%163638.png)
+![Prime Video Dashboard](Prime_Video_Dashboard/Screenshot%202025-06-25%20163638.png)
 
 ## Dashboard Highlights
 - 📊 **Total Titles Analyzed**: 9,655
